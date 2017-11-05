@@ -1,1 +1,1 @@
-# calculator
+<! For this project, I will be creating a fully functional browser calculator. This is an exercise from The Odin Project _>
